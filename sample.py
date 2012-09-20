@@ -11,7 +11,7 @@
 #!/usr/bin/env python
 
 def main():
-    pass
+    print "In main land"
 
 if __name__ == '__main__':
     print "Yeehaa"
