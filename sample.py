@@ -16,3 +16,4 @@ def main():
 if __name__ == '__main__':
     print "Yeehaa"
     main()
+    print "Just started..."
