@@ -12,6 +12,7 @@
 
 def main():
     print "In main land"
+    ## DUMB
 
 if __name__ == '__main__':
     print "Yeehaa"
